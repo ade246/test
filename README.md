@@ -1,3 +1,3 @@
 # test
-cylinder.py
-resistor.py
+# cylinder.py
+# resistor.py
